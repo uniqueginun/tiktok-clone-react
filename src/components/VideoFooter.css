@@ -1,0 +1,31 @@
+.videoFooter {
+    position: absolute;
+    bottom: 20px;
+    padding: 20px;
+    color: aliceblue;
+    width: 90%;
+}
+
+.videoFooter img {
+    height: 30px;
+}
+
+.vidoeFooter__footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.song {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.song span {
+    font-size: 13px;
+}
+
+.ticker {
+    width: 100%;
+}
